@@ -7,3 +7,13 @@ The prerequisites modules of the functions are the following:
 - random
 - matplotlib.pyplot as plt
 - scipy.special as sc
+
+The the functions implemented are listed below:
+
+- simple sampling 
+- biased sampling
+- uniform sampling
+- perm sampling (one-dimensional walk)
+- simple self-avoiding walk (SAW) sampling
+- rosenbluth sampling
+- perm sampling SAW
