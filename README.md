@@ -8,7 +8,7 @@ The prerequisites modules of the functions are the following:
 - matplotlib.pyplot as plt
 - scipy.special as sc
 
-The the functions implemented are listed, in order, below:
+The functions implemented are listed, in order, below:
 
 - simple sampling 
 - biased sampling
