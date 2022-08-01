@@ -19,6 +19,6 @@ The functions implemented are listed, in order, below:
 
 ## For 2-dimensional random walks
 
--simple self-avoiding walk (SAW) sampling
+- simple self-avoiding walk (SAW) sampling
 - rosenbluth sampling
 - perm sampling SAW
