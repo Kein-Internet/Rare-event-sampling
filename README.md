@@ -15,7 +15,8 @@ The functions implemented are listed, in order, below:
 - simple sampling 
 - biased sampling
 - uniform sampling
-- perm sampling (one-dimensional walk)
+- perm sampling
+- blind perm sampling
 
 ## For 2-dimensional random walks
 
