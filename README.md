@@ -1,6 +1,6 @@
 # Rare Event Sampling
 
-This is the python implementation of Thomas Prellberg's stochastic sampling functions found and explained in []   
+This is the python implementation of [Thomas Prellberg's stochastic sampling functions](https://webspace.maths.qmul.ac.uk/t.prellberg/papers/pub084pre.pdf). 
 The prerequisites modules of the functions are the following:
 
 - numpy as np
