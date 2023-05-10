@@ -10,7 +10,7 @@ The prerequisites modules of the functions are the following:
 
 The functions implemented are listed below (in order).
 
-## For 1-dimensional random walks
+## 1-dimensional random walks
 
 - simple sampling 
 - biased sampling
@@ -18,7 +18,7 @@ The functions implemented are listed below (in order).
 - perm sampling
 - blind perm sampling
 
-## For 2-dimensional random walks
+## 2-dimensional random walks
 
 - simple self-avoiding walk (SAW) sampling
 - rosenbluth sampling
